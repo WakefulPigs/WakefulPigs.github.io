@@ -1,8 +1,13 @@
+@font-face {
+	font-family: "Kimberley";
+	src: url(http://www.princexml.com/fonts/larabie/kimberle.ttf) format("truetype");
+}
+
 body{
 	background: url("../assets/bg.gif");
 	cursor: url(../assets/cursor.gif), auto;
 	text-align: center;
-	font-family: 'Ubuntu Mono';
+	font-family: "Kimberley", sans-serif
 }
 
 footer {
