@@ -1,4 +1,4 @@
-var text = "Only pigges allowed";
+var text = "Only piggies allowed";
 var delay = 40;
 var Xoff = 0;
 var Yoff = 30;
