@@ -1,4 +1,6 @@
 body{
 	background: url("../assets/bg.gif");
 	cursor: url(../assets/cursor.gif), auto;
+    text-align: center;
+    font-family: Comic Sans MS;
 }
