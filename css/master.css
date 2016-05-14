@@ -1,14 +1,14 @@
 body{
 	background: url("../assets/bg.gif");
 	cursor: url(../assets/cursor.gif), auto;
-    text-align: center;
-    font-family: Comic Sans MS;
+	text-align: center;
+	font-family: 'Ubuntu Mono';
 }
 
 footer {
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-    text-align: center;
-    padding-top: 5px;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	text-align: center;
+	padding-top: 5px;
 }
